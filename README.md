@@ -43,7 +43,8 @@ public double calculateCost() {
     return stayDays * ratePerDay;
 }
 Berfungsi untuk mengkalkulasi total biaya penitipan secara otomatis berdasarkan perkalian lama hari penitipan dengan tarif harian.
-Metode displayInfo():
+
+**Metode displayInfo():**
 Mencetak seluruh detail informasi hewan ke konsol secara rapi dan terstruktur.
 
 ### 2. Kelas PetDaycareSystem (Logika & Pengelolaan Sistem)
